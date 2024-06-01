@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://boilfowasuod.github.io/sitemap.xml
